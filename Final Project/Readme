@@ -1,0 +1,8 @@
+This is the final project of "IBM Data Science Professional Certificate" on Coursera.
+
+Problem Statement: Enable an Indian family to select a neigbhorhood to relocate in the city of Toronto
+By reading this report, an Indian family can compare different neighborhoods and they should get an idea of the neighborhoods that they can consider for relocating in Toronto.
+
+The jupyter notebook describes the problem, data used to solve the problem and anylysis of the data to enable an Indian family to select a neigbhorhood to relocate in the city of Toronto.
+The notebook uses Folium library to visuzalize the data on a real time map. You may not be able to visualize the map while viewing through github.
+For this, you will need to load the notebook in https://nbviewer.jupyter.org/
